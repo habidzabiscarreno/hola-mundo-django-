@@ -1,0 +1,33 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para el título principal */
+h1 {
+    font-size: 2.5em;
+    color: #4CAF50; /* Verde */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilos para el párrafo */
+p {
+    font-size: 1.2em;
+    color: #555;
+    margin: 20px 0;
+}
+
+/* Estilos para el subtítulo */
+h2 {
+    font-size: 2em;
+    color: #333;
+    margin-top: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
